@@ -1,0 +1,22 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 50px;
+    font-weight: bolder;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgba(190, 3, 3, 0.938);
+    font-size: 25px;
+    font-weight: bold;
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 12px;
+}
+h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 8px;
+}
